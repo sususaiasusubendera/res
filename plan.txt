@@ -1,5 +1,8 @@
 PLAN
 - Nyicil ...
-  * TA
+  * TA1
+  * TA2
   * Cari ingfo S2
 - Belajar ...
+  # Node JS
+  # Flutter
